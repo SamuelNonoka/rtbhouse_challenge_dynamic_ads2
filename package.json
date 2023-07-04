@@ -1,0 +1,17 @@
+{
+  "name": "rtbhouse_test_2_banner_dinamico",
+  "version": "1.0.0",
+  "description": "Teste 2 para a empresa RTB House",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "test",
+    "html",
+    "om"
+  ],
+  "author": "Samuel Pereira da Silva",
+  "license": "ISC"
+}
